@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "TTJJAutoSale",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "天天基金自动买基金",
+    "description": "The description of the application"
+  }
+}
